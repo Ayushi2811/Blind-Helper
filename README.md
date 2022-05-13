@@ -20,7 +20,7 @@ So if this idea works as per planned we&#39;ll be able to help a lot many blind 
 
 **2.1**
 
-![](RackMultipart20220513-1-88ich1_html_8378f153c719215d.png)
+![](https://github.com/Ayushi2811/Blind-helper/blob/main/assets/bh1.PNG)
 
 **2.2**
 
@@ -28,15 +28,15 @@ So if this idea works as per planned we&#39;ll be able to help a lot many blind 
 
 **2.3**
 
-![](RackMultipart20220513-1-88ich1_html_c76eacba7055e244.jpg)
+![](https://github.com/Ayushi2811/Blind-helper/blob/main/assets/bh2.PNG)
 
 **2.4**
 
-![](RackMultipart20220513-1-88ich1_html_67f9c316539410a6.jpg)
+![](https://github.com/Ayushi2811/Blind-helper/blob/main/assets/bh3.PNG)
 
 **2.5**
 
-![](RackMultipart20220513-1-88ich1_html_3304f9bfb25a5ba5.png)
+![](https://github.com/Ayushi2811/Blind-helper/blob/main/assets/bh4.PNG)
 
 # _ **3.IMPLEMENTATION** _
 
@@ -50,11 +50,11 @@ The Mask R-CNN model addresses one of the most difficult computer vision challen
 
 3.2.1.Input:
 
-![](RackMultipart20220513-1-88ich1_html_763ae8e8f841aa72.png)
+![](https://github.com/Ayushi2811/Blind-helper/blob/main/assets/bh5.PNG)
 
 3.2.2.Output:
 
-![](RackMultipart20220513-1-88ich1_html_5cab744196afa0c7.png)
+![](https://github.com/Ayushi2811/Blind-helper/blob/main/assets/bh6.PNG)
 
 **3.3 Teachable Machine view**
 
@@ -68,21 +68,11 @@ Teachable Machine is a web-based tool that makes creating machine learning model
 
 Export your model for your projects: sites, apps, and more. You can download your model or host it online for free.
 
-![](RackMultipart20220513-1-88ich1_html_a115c4efef9edbf.jpg)
+![](https://github.com/Ayushi2811/Blind-helper/blob/main/assets/bh7.PNG)
 
-![](RackMultipart20220513-1-88ich1_html_ac6598af049ee7f7.jpg)
+![](https://github.com/Ayushi2811/Blind-helper/blob/main/assets/bh8.PNG)
 
-![](RackMultipart20220513-1-88ich1_html_f758a161b2a9fcc4.jpg)
-
-![](RackMultipart20220513-1-88ich1_html_d1f50c504329ede8.jpg)
-
-![](RackMultipart20220513-1-88ich1_html_2080136caf0034fc.jpg)
-
-![](RackMultipart20220513-1-88ich1_html_3478dade8022299e.jpg)
-
-![](RackMultipart20220513-1-88ich1_html_bde8b9bee36a5423.jpg)
-
-![](RackMultipart20220513-1-88ich1_html_caaf38decd450722.jpg)
+![](https://github.com/Ayushi2811/Blind-helper/blob/main/assets/bh9.PNG)
 
 **3.4 Object detection output**
 
@@ -90,15 +80,15 @@ On running the object detection open CV modal on spyder platform and passing the
 
 **3.4.1**
 
-![](RackMultipart20220513-1-88ich1_html_4ecd347792652745.png)
+![](https://github.com/Ayushi2811/Blind-helper/blob/main/assets/bh10.PNG)
 
 **3.4.2**
 
-![](RackMultipart20220513-1-88ich1_html_e4adb1c0f9f51ad8.jpg)
+![](https://github.com/Ayushi2811/Blind-helper/blob/main/assets/bh11.PNG)
 
 **3.4.3**
 
-![](RackMultipart20220513-1-88ich1_html_803e0987904bf547.jpg)
+![](https://github.com/Ayushi2811/Blind-helper/blob/main/assets/bh12.PNG)
 
 # _ **4.Description of audio speaker** _
 
