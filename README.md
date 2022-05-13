@@ -1,35 +1,5 @@
 # Blind-helper
 
-# **Blind Helper**
-
-Submitted in partial fulfillment of the requirements for the award of degree of
-
-**BACHELOR OF ENGINEERING**
-
-**IN**
-
-**COMPUTER SCIENCE &amp; ENGINEERING**
-
-![](RackMultipart20220513-1-88ich1_html_d0f5c61a81afff29.jpg)
-
-**Submitted to:**  **Mrs. Anjuli Goel**  **Submitted By:**
-
-**Project Teacher :**  **Er. Navjot Kaur**  **Student Group :**
-
-**NAME-**  **AYUSHI CHAUHAN**
-
-**UID**  **19BCS1475**
-
-**Mentor Signature**
-
-**(Name &amp; E-code)**
-
-**DEPARTMENT OF COMPUTER SCIENCE &amp; ENGINEERING**
-
-**Chandigarh University, Gharuan**
-
-**June 2021**
-
 # _ **1.INTRODUCTION** _
 
 Blind Helper is a hardware cum software project that will be designed keeping in mind the obstacles faced by the blind people.
@@ -137,17 +107,3 @@ In this project ,above,we can see that we have implemented the object detection 
 A s we cannot provide the audio in the report so it is just a small description that whatever text we give as input on the spyder ,the same audio file is generated or created and it auto plays itself and we hear the sound of whatever the input text we have given in the program and run through anaconda prompt.
 
 So this was all about the text to audio voice alarm.
-
-# _ **5. Teamwork** _
-
-**Member-1:Ayushi Chauhan(19bcs1475)**
-
-Did the object detection part in the project.
-
-Did the teachable learning,uploaded data,verified various steps.
-
-**Member-2:Vidushi Somani(19bcs1119)**
-
-Did the voice alarm part using gTTS and converting text to audio form.
-
-Collected data of different objects.
