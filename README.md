@@ -76,15 +76,15 @@ On running the object detection open CV modal on spyder platform and passing the
 
 **3.4.1**
 
-![](https://github.com/Ayushi2811/Blind-helper/blob/main/assets/bh10.PNG)
+![](https://github.com/Ayushi2811/Blind-helper/blob/main/assets/bh13.PNG)
 
 **3.4.2**
 
-![](https://github.com/Ayushi2811/Blind-helper/blob/main/assets/bh11.PNG)
+![](https://github.com/Ayushi2811/Blind-helper/blob/main/assets/bh14.PNG)
 
 **3.4.3**
 
-![](https://github.com/Ayushi2811/Blind-helper/blob/main/assets/bh12.PNG)
+![](https://github.com/Ayushi2811/Blind-helper/blob/main/assets/bh15.PNG)
 
 # _ **4.Description of audio speaker** _
 
