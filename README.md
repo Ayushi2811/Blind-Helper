@@ -24,7 +24,7 @@ So if this idea works as per planned we&#39;ll be able to help a lot many blind 
 
 **2.2**
 
-![](RackMultipart20220513-1-88ich1_html_9d2de5b6edbd8f09.jpg)
+![alt_text](RackMultipart20220513-1-88ich1_html_9d2de5b6edbd8f09.jpg)
 
 **2.3**
 
